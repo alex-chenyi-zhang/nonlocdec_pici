@@ -1,0 +1,12 @@
+name: nonlocdec_pici
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.4.3
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - scikit-learn=1.8.0
+  - tqdm=4.67.3
+  - ipykernel=7.2.0
+prefix: /home/czhang/miniforge3/envs/nonlocdec_pici
